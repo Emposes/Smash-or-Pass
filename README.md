@@ -1,5 +1,6 @@
 # Smash-or-Pass
 Smash or Pass Image Classification
+
 Salut, YouTube! Bine ai venit!
 
 Aici gasesti codul pentru clasificatorul (foarte basic) care vrea sa imparta pozele in doua clase: Smash or Pass. 
